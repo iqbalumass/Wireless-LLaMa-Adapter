@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Single-GPU fine-tuning version of LLaMA-Adapter V2 (Radar + Image + Text)
 Author: Adapted for Iqbal
 """
 
@@ -30,7 +29,7 @@ from pathlib import Path
 # Argument parser
 # ------------------------------------------------------------
 def get_args_parser():
-    parser = argparse.ArgumentParser('Radar–LLaMA-Adapter fine-tuning (single GPU)', add_help=False)
+    parser = argparse.ArgumentParser('Radar-LLaMA-Adapter fine-tuning (single GPU)', add_help=False)
     parser.add_argument('--batch_size', default=8, type=int)
     parser.add_argument('--epochs', default=11, type=int)
     parser.add_argument('--accum_iter', default=1, type=int)
