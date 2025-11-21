@@ -1,0 +1,1802 @@
+[
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.004532.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.104633.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.204734.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.304835.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.404936.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.505037.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.605138.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.705239.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.805340.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-36.905441.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.005542.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.105643.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.205744.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.305845.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.405946.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.506047.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.606148.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.706249.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.806350.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-37.906451.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10008_11-47-37.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.006552.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.106653.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.206754.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.306855.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.406956.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.507057.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.607158.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.707259.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.807360.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-38.907461.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10018_11-47-38.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.007562.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.107663.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.207764.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.307865.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.407966.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.508067.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.608168.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.708269.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.808370.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-39.908471.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10028_11-47-39.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.008572.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.108673.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.208774.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.308875.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.408976.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.509077.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.609178.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.709279.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.809380.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-40.909481.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_11-47-40.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.009582.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.109683.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.209784.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.309885.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.409986.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.510087.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.610188.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.710289.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.810390.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-41.910491.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10048_11-47-41.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.010592.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.110693.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.210794.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.310895.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.410996.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.511097.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.611198.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.711299.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.811400.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-42.911501.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10058_11-47-42.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.011602.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.111703.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.211804.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.311905.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.412006.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.512107.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.612208.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.712309.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.812410.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-43.912511.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10068_11-47-43.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.012612.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.112713.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.212814.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.312915.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.413016.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.513117.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.613218.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.713319.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.813420.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-44.913521.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10078_11-47-44.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.013622.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.113723.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.213824.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.313925.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.414026.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.514127.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars and a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.614228.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.714329.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars and a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.814430.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-45.914531.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10088_11-47-45.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of cars driving down the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.014632.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of cars driving down the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.114733.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of cars driving down the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.214834.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.314935.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.415036.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.515137.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.615238.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.715339.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.815440.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-46.915541.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10098_11-47-46.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.015642.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down a street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.115743.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down a street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.215844.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.315945.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.416046.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.516147.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.616248.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars and a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.716349.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a city with cars and a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.816450.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-47.916551.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10108_11-47-47.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.016652.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.116753.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down a street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.216854.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down a street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.316955.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars and a stop light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.417056.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down a street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.517157.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.617258.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.717359.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.817460.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down a street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-48.917561.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10118_11-47-48.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.017662.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.117763.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down a street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.217864.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.317965.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.418066.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.518167.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.618268.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.718369.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.818470.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-49.918571.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10128_11-47-49.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.018672.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.118773.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.218874.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.318975.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.419076.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.519177.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.619278.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.719379.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.819480.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-50.919581.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10138_11-47-50.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.019682.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a city with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.119783.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.219884.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.319985.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.420086.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.520187.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.620288.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.720389.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.820490.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-51.920591.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10148_11-47-51.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.020692.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.120793.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.220894.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.320995.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.421096.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.521197.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.621298.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.721399.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.821500.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-52.921601.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10158_11-47-52.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.021702.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.121803.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.221904.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.322005.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.422106.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.522207.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.622308.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.722409.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.822510.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-53.922611.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10168_11-47-53.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.022712.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.122813.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.222914.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.323015.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.423116.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.523217.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.623318.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.723419.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.823520.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-54.923621.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10178_11-47-54.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.023722.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.123823.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.223924.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.324025.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.424126.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.524227.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.624328.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.724429.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.824530.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-55.924631.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10188_11-47-55.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.024732.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.124833.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.224934.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.325035.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.425136.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.525237.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.625338.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.725439.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.825540.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-56.925641.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10198_11-47-56.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.025742.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.125843.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.225944.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.326045.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a city with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.426146.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.526247.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.626348.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a city with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.726449.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.826550.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-57.926651.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10208_11-47-57.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.026752.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.126853.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.226954.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.327055.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.427156.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.527257.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a street view of a city with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.627358.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.727459.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.827560.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-58.927661.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.027762.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.127863.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.227964.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.328065.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.428166.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.528267.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.628368.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a road next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.728469.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.828570.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-47-59.928671.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10228_11-47-59.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.028772.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.128873.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.228974.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.329075.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.429176.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.529277.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.629378.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car is parked in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.729479.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.829580.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-00.929681.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10238_11-48-00.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.029782.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.129883.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street from a car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.229984.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street from a car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.330085.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street from a car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.430186.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street from a car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.530287.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street from a car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.630388.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.730489.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.830590.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-01.930691.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10248_11-48-01.933000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.030792.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.130893.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.230994.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.331095.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.397829.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.497930.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.631398.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.698132.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.798233.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.931701.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-02.998435.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10258_11-48-02.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.098536.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.198637.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.298738.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.398839.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.498940.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.599041.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.699142.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.799243.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.899344.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-03.999445.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10268_11-48-03.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-04.099546.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10278_11-48-04.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-04.199647.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10278_11-48-04.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-04.299748.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10278_11-48-04.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-04.399849.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10278_11-48-04.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-04.499950.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10278_11-48-04.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-04.600051.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10278_11-48-04.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-04.700152.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10278_11-48-04.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-04.800253.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10278_11-48-04.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-04.900354.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10278_11-48-04.934000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.000455.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.100556.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.200657.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.300758.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.400859.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.500960.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.601061.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.701162.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.801263.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/rgb1/frame_11-48-05.901364.jpg",
+    "radar": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_11-48-05.935000.mat",
+    "instruction": "Describe the scene.",
+    "answer": "a car driving down a street next to a building"
+  }
+]

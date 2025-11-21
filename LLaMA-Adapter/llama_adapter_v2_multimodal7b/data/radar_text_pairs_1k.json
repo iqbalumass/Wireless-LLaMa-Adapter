@@ -1,0 +1,4002 @@
+[
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12811_11-52-18.237000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14847_11-55-41.840000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15530_11-56-50.140000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16131_11-57-50.240000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13754_13-46-57.162000.mat",
+    "text": "a police car is driving down the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10295_13-41-11.260000.mat",
+    "text": "a car driving down a highway with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13495_13-46-31.261000.mat",
+    "text": "two cars driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15147_13-49-16.463000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12144_13-44-16.162000.mat",
+    "text": "a car driving down a highway with a sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11720_13-43-33.761000.mat",
+    "text": "a car driving down a desert road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14340_13-47-55.762000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19500_12-03-27.145000.mat",
+    "text": "a car driving down a street in a small town"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14080_13-47-29.763000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11657_11-50-22.836000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12827_11-52-19.837000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10135_11-47-50.633000.mat",
+    "text": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10450_11-48-22.133000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12195_13-44-21.261000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10624_11-48-39.534000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11914_13-43-53.161000.mat",
+    "text": "a car driving down the road next to a semi - truck"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11623_13-43-24.061000.mat",
+    "text": "a car driving down a highway under a bridge"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10532_13-41-34.961000.mat",
+    "text": "a car driving down a highway with a windmill in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10379_11-48-15.034000.mat",
+    "text": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15616_11-56-58.740000.mat",
+    "text": "a car driving down a street next to a street"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20340_12-04-51.146000.mat",
+    "text": "a street view of a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15257_11-56-22.841000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13569_11-53-34.038000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13193_11-52-56.437000.mat",
+    "text": "a car driving down a street with a sun shining on the sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11991_11-50-56.235000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13531_13-46-34.862000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15647_11-57-01.841000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12656_13-45-07.362000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20052_12-04-22.346000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13393_13-46-21.062000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15230_13-49-24.763000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13813_13-47-03.062000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12034_13-44-05.161000.mat",
+    "text": "a car driving down a highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11731_13-43-34.861000.mat",
+    "text": "a car driving down a desert road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11834_11-50-40.535000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15443_11-56-41.440000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20397_12-04-56.846000.mat",
+    "text": "a street view of a street with a car driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10538_13-41-35.561000.mat",
+    "text": "a car driving down the highway with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19586_12-03-35.745000.mat",
+    "text": "a car driving down a street in a residential area"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12727_11-52-09.837000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15430_11-56-40.140000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17372_11-59-54.342000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14095_13-47-31.262000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11569_11-50-14.036000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14358_13-47-57.563000.mat",
+    "text": "a car driving down a road with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13433_11-53-20.438000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13202_11-52-57.337000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20353_12-04-52.446000.mat",
+    "text": "a street view of a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13245_11-53-01.638000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15005_11-55-57.639000.mat",
+    "text": "a street with cars and a sun in the sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14653_13-48-27.063000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11760_13-43-37.761000.mat",
+    "text": "a car driving down the road with a truck in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13555_11-53-32.638000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15587_13-50-00.463000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11765_13-43-38.261000.mat",
+    "text": "a car driving down a desert road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11544_13-43-16.161000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13406_11-53-17.738000.mat",
+    "text": "a car driving down a street next to a palm tree"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15898_11-57-26.941000.mat",
+    "text": "a car driving down a street next to a palm tree"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11378_11-49-54.935000.mat",
+    "text": "a car driving down a street with buildings in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16086_11-57-45.741000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15631_13-50-04.863000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11782_13-43-39.961000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12279_13-44-29.661000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14049_11-54-22.038000.mat",
+    "text": "a car is driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15450_13-49-46.763000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12488_13-44-50.562000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19615_12-03-38.645000.mat",
+    "text": "a street with cars parked on it and a house in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13009_13-45-42.661000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13447_13-46-26.462000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11126_13-42-34.361000.mat",
+    "text": "a car driving down the road with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10490_13-41-30.760000.mat",
+    "text": "a truck driving down a highway with a truck in the back"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19984_12-04-15.545000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12009_13-44-02.662000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13508_13-46-32.562000.mat",
+    "text": "two cars driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14752_13-48-36.962000.mat",
+    "text": "a car driving down a road with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14970_13-48-58.763000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14939_13-48-55.663000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15601_13-50-01.863000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17489_12-00-06.042000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13135_11-52-50.637000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12105_13-44-12.261000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13315_11-53-08.637000.mat",
+    "text": "a car driving down a street next to a house"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15397_11-56-36.840000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11825_13-43-44.261000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13248_11-53-01.937000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10194_13-41-01.160000.mat",
+    "text": "a car driving down a road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15723_11-57-09.440000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15512_13-49-52.963000.mat",
+    "text": "a view of a street with cars and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10310_13-41-12.760000.mat",
+    "text": "a car driving down a highway with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10357_11-48-12.835000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11155_13-42-37.260000.mat",
+    "text": "a car driving down the road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12404_13-44-42.161000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10396_11-48-16.734000.mat",
+    "text": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14796_13-48-41.362000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11332_13-42-54.961000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12254_11-51-22.536000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11583_11-50-15.435000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11901_13-43-51.862000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10360_11-48-13.134000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15108_11-56-07.940000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14460_11-55-03.139000.mat",
+    "text": "a car driving down a street with a lot of cars"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14894_11-55-46.539000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13163_13-45-58.062000.mat",
+    "text": "a car driving down a road with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12880_11-52-25.136000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12503_13-44-52.062000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10169_13-40-58.660000.mat",
+    "text": "a car driving down the road with a camera attached to it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20383_12-04-55.446000.mat",
+    "text": "a street view of a street with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11922_11-50-49.335000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15360_11-56-33.140000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15304_11-56-27.540000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10201_13-41-01.860000.mat",
+    "text": "a car driving down a road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13902_13-47-11.963000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14401_13-48-01.862000.mat",
+    "text": "a car driving down a highway with a sign on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12620_11-51-59.137000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20069_12-04-24.045000.mat",
+    "text": "a car is parked on the street in front of a house"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20388_12-04-55.946000.mat",
+    "text": "a street view of a street with cars and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12966_11-52-33.736000.mat",
+    "text": "a car driving down a street in the middle of a town"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15152_11-56-12.340000.mat",
+    "text": "a car driving down a highway with another car in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19509_12-03-28.045000.mat",
+    "text": "a car driving down a street in a residential area"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15925_11-57-29.640000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13545_13-46-36.262000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15513_13-49-53.063000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19322_12-03-09.345000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13698_13-46-51.563000.mat",
+    "text": "a car driving down a highway with a traffic cone"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19293_12-03-06.444000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11555_13-43-17.261000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11194_13-42-41.161000.mat",
+    "text": "a car driving down the highway with a green sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11687_13-43-30.461000.mat",
+    "text": "a truck driving down a road with a truck in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11083_13-42-30.061000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13073_11-52-44.437000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19395_12-03-16.644000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11987_13-44-00.462000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12381_13-44-39.861000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14146_13-47-36.362000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10237_13-41-05.460000.mat",
+    "text": "a car driving down the highway with a sign on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11171_11-49-34.235000.mat",
+    "text": "a car driving down a street in the middle of town"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15547_11-56-51.840000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12774_13-45-19.162000.mat",
+    "text": "a car driving down a road next to a sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11656_13-43-27.361000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12826_11-52-19.737000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15434_11-56-40.541000.mat",
+    "text": "a street view of a city with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14642_13-48-25.963000.mat",
+    "text": "a car driving down a highway with a sign on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10218_11-47-58.933000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10538_11-48-30.934000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12494_13-44-51.161000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14133_13-47-35.063000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11764_13-43-38.161000.mat",
+    "text": "a car driving down a desert road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10668_13-41-48.560000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14163_13-47-38.063000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12328_13-44-34.561000.mat",
+    "text": "a car driving down a street with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19397_12-03-16.845000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12439_11-51-41.036000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15986_11-57-35.741000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13715_13-46-53.262000.mat",
+    "text": "a car driving down a highway with a trailer behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10149_11-47-52.034000.mat",
+    "text": "a street view of a city with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11712_13-43-32.961000.mat",
+    "text": "a car driving down a desert road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14251_13-47-46.863000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15441_11-56-41.240000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14021_11-54-19.238000.mat",
+    "text": "a street view of a city with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12389_11-51-36.036000.mat",
+    "text": "a street with cars and a sun in the sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10207_13-41-02.460000.mat",
+    "text": "a car driving down the road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14521_11-55-09.239000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15864_11-57-23.541000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13214_11-52-58.537000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13168_11-52-53.937000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14147_13-47-36.463000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14892_11-55-46.340000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11306_13-42-52.362000.mat",
+    "text": "a car driving down a highway with a wind turbine"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15215_13-49-23.263000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11546_11-50-11.735000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10626_13-41-44.360000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15088_13-49-10.563000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10200_11-47-57.134000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14609_13-48-22.662000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16092_11-57-46.341000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15721_11-57-09.241000.mat",
+    "text": "a car driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10856_11-49-02.735000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10288_13-41-10.560000.mat",
+    "text": "a car driving down a highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10533_11-48-30.434000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15218_13-49-23.563000.mat",
+    "text": "a car driving down a street with a wall behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14457_11-55-02.839000.mat",
+    "text": "a street with cars and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10033_13-40-45.060000.mat",
+    "text": "a white truck driving down the road next to a white truck"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12719_11-52-09.037000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10605_13-41-42.260000.mat",
+    "text": "a car driving down a highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15132_13-49-14.964000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11869_11-50-44.036000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10293_11-48-06.434000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19520_12-03-29.145000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14765_13-48-38.263000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11795_13-43-41.261000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19858_12-04-02.946000.mat",
+    "text": "a street with a car parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10518_11-48-28.934000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12418_11-51-38.936000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12271_13-44-28.862000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11683_11-50-25.436000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10304_11-48-07.533000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15219_13-49-23.663000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10070_11-47-44.133000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11410_13-43-02.761000.mat",
+    "text": "a car driving down a desert road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20026_12-04-19.746000.mat",
+    "text": "a street view of a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13330_11-53-10.137000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15219_11-56-19.040000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10736_13-41-55.360000.mat",
+    "text": "a car driving down a desert road with a sky background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15220_13-49-23.764000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13778_13-46-59.562000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12553_13-44-57.061000.mat",
+    "text": "a car driving down a road with a flag on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12190_13-44-20.762000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16132_11-57-50.341000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10583_13-41-40.060000.mat",
+    "text": "a truck driving down the highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11353_11-49-52.436000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13547_13-46-36.461000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11653_11-50-22.436000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14045_13-47-26.262000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11901_11-50-47.235000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12350_11-51-32.136000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13447_11-53-21.838000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10598_13-41-41.560000.mat",
+    "text": "a car driving down a highway next to a truck"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11244_13-42-46.161000.mat",
+    "text": "a car driving down the highway with a car in the fore"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11210_11-49-38.135000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14432_13-48-04.963000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14355_13-47-57.262000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14918_13-48-53.563000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12226_13-44-24.362000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13925_13-47-14.262000.mat",
+    "text": "a car driving down a highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10778_13-41-59.560000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11520_11-50-09.135000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10673_11-48-44.434000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19757_12-03-52.846000.mat",
+    "text": "a street view of a house and a car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19788_12-03-55.945000.mat",
+    "text": "a street view of a street with houses and trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19802_12-03-57.346000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12698_11-52-06.936000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14183_13-47-40.062000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11938_13-43-55.561000.mat",
+    "text": "a truck driving down the road with a truck in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10829_13-42-04.660000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13119_11-52-49.038000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13718_13-46-53.562000.mat",
+    "text": "a car driving down a highway with a truck in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14077_13-47-29.462000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10047_11-47-41.834000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19419_12-03-19.045000.mat",
+    "text": "a car driving down a street next to a house"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11175_13-42-39.261000.mat",
+    "text": "a car driving down the highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10554_11-48-32.534000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15331_13-49-34.863000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11282_13-42-49.961000.mat",
+    "text": "a car driving down the road with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13198_11-52-56.937000.mat",
+    "text": "a car driving down a street with a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14496_11-55-06.739000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14883_11-55-45.439000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12533_11-51-50.436000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15388_13-49-40.563000.mat",
+    "text": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15016_11-55-58.739000.mat",
+    "text": "a street with cars and a sun in the sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10608_13-41-42.560000.mat",
+    "text": "a view of a road with a car driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17484_12-00-05.542000.mat",
+    "text": "a car is parked on the side of a street"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11805_13-43-42.261000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12897_13-45-31.461000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14632_13-48-24.962000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13685_11-53-45.637000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11222_13-42-43.961000.mat",
+    "text": "a car driving down the highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11670_11-50-24.135000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19705_12-03-47.645000.mat",
+    "text": "a car driving down a street in the sun"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15239_13-49-25.663000.mat",
+    "text": "a car driving down a street with a wall behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15562_11-56-53.340000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14823_11-55-39.440000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14038_13-47-25.562000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11280_13-42-49.761000.mat",
+    "text": "a car driving down the highway with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16028_11-57-39.941000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14295_13-47-51.262000.mat",
+    "text": "a car driving down a road with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11374_13-42-59.160000.mat",
+    "text": "a car driving down a desert road with a truck in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16106_11-57-47.741000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15069_13-49-08.662000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12761_13-45-17.862000.mat",
+    "text": "a car driving down a highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10741_11-48-51.234000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15004_13-49-02.164000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20284_12-04-45.546000.mat",
+    "text": "a street view of a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11450_11-50-02.135000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10019_11-47-39.033000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19745_12-03-51.645000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15120_13-49-13.763000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15861_11-57-23.240000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10396_13-41-21.361000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12697_13-45-11.462000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20161_12-04-33.246000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10747_11-48-51.834000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11475_11-50-04.635000.mat",
+    "text": "a car driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13194_13-46-01.162000.mat",
+    "text": "a car driving down a road with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19938_12-04-10.945000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12344_13-44-36.161000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12566_11-51-53.736000.mat",
+    "text": "a car driving down a street with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14884_11-55-45.540000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10292_13-41-10.961000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19677_12-03-44.845000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12432_11-51-40.336000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20158_12-04-32.945000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12653_11-52-02.437000.mat",
+    "text": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13301_11-53-07.237000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15543_11-56-51.440000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15248_11-56-21.939000.mat",
+    "text": "a car driving down a street next to a street"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10557_13-41-37.460000.mat",
+    "text": "a car driving down the road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14055_13-47-27.263000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19259_12-03-03.046000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11745_13-43-36.261000.mat",
+    "text": "a car driving down the highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15215_11-56-18.640000.mat",
+    "text": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11679_13-43-29.661000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15197_11-56-16.840000.mat",
+    "text": "a car driving down a street next to a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11269_13-42-48.662000.mat",
+    "text": "a car driving down the road with a view of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12670_11-52-04.137000.mat",
+    "text": "a car is parked in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12754_11-52-12.537000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10491_13-41-30.861000.mat",
+    "text": "a truck driving down a road with a truck in the back"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15040_13-49-05.762000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12297_13-44-31.462000.mat",
+    "text": "a view of a street with a car driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10568_13-41-38.560000.mat",
+    "text": "a car driving down the highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19752_12-03-52.345000.mat",
+    "text": "a street view of a street with houses and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15201_13-49-21.863000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16135_11-57-50.641000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10385_11-48-15.636000.mat",
+    "text": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12914_11-52-28.537000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12950_13-45-36.762000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12031_13-44-04.861000.mat",
+    "text": "a car driving down a highway with a truck in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10668_11-48-43.935000.mat",
+    "text": "a street with cars parked on it and a person walking down the street"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11417_11-49-58.835000.mat",
+    "text": "a car driving down a street with buildings in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14514_11-55-08.539000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10772_11-48-54.334000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13667_11-53-43.838000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19573_12-03-34.445000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14484_11-55-05.539000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11360_13-42-57.761000.mat",
+    "text": "a car driving down a highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14666_13-48-28.362000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12951_13-45-36.862000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14410_13-48-02.763000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12528_13-44-54.562000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14494_13-48-11.162000.mat",
+    "text": "a car driving down a highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15314_13-49-33.163000.mat",
+    "text": "a car driving down a street with a wall behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11555_11-50-12.635000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20346_12-04-51.745000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12776_11-52-14.736000.mat",
+    "text": "a car driving down a street in the middle of a town"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11981_13-43-59.861000.mat",
+    "text": "a truck driving down a highway next to a car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12642_11-52-01.337000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11202_11-49-37.335000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10322_13-41-13.960000.mat",
+    "text": "a car driving down a highway with a car in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13026_13-45-44.362000.mat",
+    "text": "a car driving through a tunnel in the middle of a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19841_12-04-01.246000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14084_11-54-25.539000.mat",
+    "text": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10290_11-48-06.134000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10253_13-41-07.060000.mat",
+    "text": "a car driving down the highway with a sign on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15272_13-49-28.963000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15229_13-49-24.664000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14918_11-55-48.940000.mat",
+    "text": "a car driving down a street with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17325_11-59-49.643000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19518_12-03-28.945000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11261_13-42-47.861000.mat",
+    "text": "a view of the road from a motorcycle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11546_13-43-16.360000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15092_11-56-06.340000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15604_13-50-02.163000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13391_13-46-20.862000.mat",
+    "text": "a car driving down a highway with a red car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10095_11-47-46.633000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13941_13-47-15.862000.mat",
+    "text": "a car driving down a highway next to a sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15607_13-50-02.464000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13236_13-46-05.362000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11222_11-49-39.335000.mat",
+    "text": "a car driving down a street with buildings in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13777_13-46-59.462000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15680_11-57-05.141000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15650_11-57-02.140000.mat",
+    "text": "a car driving down a street with a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10059_11-47-43.034000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11278_11-49-44.935000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15951_11-57-32.241000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15965_11-57-33.641000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15363_13-49-38.063000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15554_11-56-52.541000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15625_13-50-04.264000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10563_13-41-38.060000.mat",
+    "text": "a car driving down the road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13270_11-53-04.137000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10481_13-41-29.860000.mat",
+    "text": "a car driving down the road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12184_11-51-15.536000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15445_13-49-46.263000.mat",
+    "text": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13728_11-53-49.939000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11149_13-42-36.661000.mat",
+    "text": "a car driving down the road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10035_13-40-45.260000.mat",
+    "text": "a truck is driving down the road with a car in the back"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12466_13-44-48.361000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10400_13-41-21.760000.mat",
+    "text": "a car driving down the road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15284_13-49-30.163000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15677_13-50-09.464000.mat",
+    "text": "a car is driving down a street with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12247_13-44-26.461000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20374_12-04-54.546000.mat",
+    "text": "a street view of a street with cars and trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10572_13-41-38.960000.mat",
+    "text": "a car driving down the highway with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20204_12-04-37.546000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12708_13-45-12.562000.mat",
+    "text": "a car driving down a highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11762_13-43-37.962000.mat",
+    "text": "a car driving down the road with a truck in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14380_11-54-55.138000.mat",
+    "text": "a street view of cars driving down the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10755_13-41-57.261000.mat",
+    "text": "a car driving down a road with a sign on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13624_11-53-39.538000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14742_13-48-35.963000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11170_11-49-34.135000.mat",
+    "text": "a car driving down a street in the middle of town"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13237_11-53-00.838000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14013_11-54-18.439000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10373_11-48-14.434000.mat",
+    "text": "a street view of a city with a car driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12610_13-45-02.762000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13015_13-45-43.262000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12309_11-51-28.036000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15589_13-50-00.663000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12806_13-45-22.362000.mat",
+    "text": "a car is driving down the road with a yellow cone"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17334_11-59-50.542000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15724_11-57-09.540000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12255_13-44-27.263000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16139_11-57-51.041000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13549_13-46-36.662000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10101_11-47-47.234000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14874_11-55-44.539000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12120_13-44-13.761000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15749_11-57-12.040000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20101_12-04-27.246000.mat",
+    "text": "a street view of a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20091_12-04-26.245000.mat",
+    "text": "a street view of a residential area with cars parked in the street"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13093_13-45-51.062000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11206_11-49-37.735000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14798_13-48-41.563000.mat",
+    "text": "a car driving down a road in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13268_11-53-03.938000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10556_13-41-37.360000.mat",
+    "text": "a car driving down the highway with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10850_11-49-02.134000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16016_11-57-38.741000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13169_13-45-58.662000.mat",
+    "text": "a car driving down a road with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17330_11-59-50.142000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10451_13-41-26.860000.mat",
+    "text": "a car driving down the highway with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10099_11-47-47.034000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15591_11-56-56.241000.mat",
+    "text": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11239_11-49-41.035000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13720_11-53-49.138000.mat",
+    "text": "a car driving down a street with a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11208_13-42-42.561000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15628_13-50-04.563000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19486_12-03-25.745000.mat",
+    "text": "a car driving down a street in a residential area"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15349_11-56-32.040000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13637_11-53-40.838000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13729_11-53-50.037000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10372_13-41-18.960000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10026_13-40-44.360000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14734_13-48-35.163000.mat",
+    "text": "a car driving down a highway with a camera attached to the roof"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19826_12-03-59.745000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19588_12-03-35.945000.mat",
+    "text": "a car driving down a street in a residential area"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15610_13-50-02.764000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17478_12-00-04.942000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17511_12-00-08.242000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11573_11-50-14.435000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10927_11-49-09.834000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12236_13-44-25.361000.mat",
+    "text": "a car driving down a road with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10845_13-42-06.261000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19910_12-04-08.145000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10839_11-49-01.034000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19865_12-04-03.646000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11436_11-50-00.736000.mat",
+    "text": "a car driving down a street with buildings in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14259_13-47-47.663000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13331_11-53-10.237000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11906_13-43-52.361000.mat",
+    "text": "a car driving down the road with a trailer behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13512_13-46-32.962000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14638_13-48-25.563000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14898_11-55-46.940000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15358_13-49-37.563000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10119_11-47-49.034000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14949_11-55-52.039000.mat",
+    "text": "a street with cars and a sun in the sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19863_12-04-03.445000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14087_13-47-30.462000.mat",
+    "text": "a car driving down a highway with a flag on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19828_12-03-59.945000.mat",
+    "text": "a street view of a street with houses and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12742_13-45-15.962000.mat",
+    "text": "a car driving down a highway with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20290_12-04-46.146000.mat",
+    "text": "a street view of a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11345_13-42-56.261000.mat",
+    "text": "a car driving down the highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14201_13-47-41.863000.mat",
+    "text": "a car driving down a highway with a sign above it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17490_12-00-06.142000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12084_13-44-10.162000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11758_13-43-37.561000.mat",
+    "text": "a car driving down a desert road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10772_13-41-58.960000.mat",
+    "text": "a car driving down a highway with a sign on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14433_13-48-05.063000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14124_13-47-34.162000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17328_11-59-49.942000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14928_13-48-54.562000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10499_13-41-31.660000.mat",
+    "text": "a truck is driving down the road with a car in the back"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10833_13-42-05.060000.mat",
+    "text": "a view from a motorcycle driving down a road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11357_11-49-52.835000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12789_11-52-16.037000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13709_11-53-48.038000.mat",
+    "text": "a car driving down a street with a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20349_12-04-52.045000.mat",
+    "text": "a car driving down a street next to a palm tree"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19556_12-03-32.744000.mat",
+    "text": "a car driving down a street in a residential area"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12824_13-45-24.162000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11626_13-43-24.361000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14215_13-47-43.262000.mat",
+    "text": "a car driving down a road with a camera"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16153_11-57-52.440000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15887_11-57-25.840000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10429_11-48-20.034000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11865_11-50-43.636000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10564_13-41-38.160000.mat",
+    "text": "a car driving down the road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13962_11-54-13.338000.mat",
+    "text": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10647_13-41-46.461000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11342_11-49-51.335000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12892_11-52-26.337000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11888_11-50-45.936000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11614_11-50-18.535000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19646_12-03-41.745000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15099_11-56-07.040000.mat",
+    "text": "a car driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12227_13-44-24.461000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12700_13-45-11.761000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15546_11-56-51.741000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13260_11-53-03.138000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13579_11-53-35.038000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12438_11-51-40.936000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12370_13-44-38.761000.mat",
+    "text": "a car driving down a road with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10242_13-41-05.960000.mat",
+    "text": "a car driving down the highway with a sign on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10773_13-41-59.060000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11397_11-49-56.835000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19973_12-04-14.446000.mat",
+    "text": "a street with cars parked on it and a sun shining in the sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16078_11-57-44.940000.mat",
+    "text": "a car driving down a street with a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12808_11-52-17.937000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13621_11-53-39.237000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10702_13-41-51.960000.mat",
+    "text": "a car driving down the road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10147_13-40-56.461000.mat",
+    "text": "a car driving down a road with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11913_11-50-48.436000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10424_11-48-19.533000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13648_11-53-41.938000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10487_11-48-25.834000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14968_11-55-53.939000.mat",
+    "text": "a street with cars and a sun in the sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13102_13-45-51.961000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14150_13-47-36.762000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15957_11-57-32.841000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12383_11-51-35.436000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12221_11-51-19.236000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10468_11-48-23.933000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13286_13-46-10.362000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19795_12-03-56.646000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10809_13-42-02.661000.mat",
+    "text": "a car driving down a highway under a bridge"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12533_13-44-55.062000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11629_13-43-24.660000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13171_13-45-58.862000.mat",
+    "text": "a car driving down a highway with palm trees in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11946_13-43-56.362000.mat",
+    "text": "a truck driving down the road next to a white truck"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12219_11-51-19.036000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14848_11-55-41.939000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13132_11-52-50.337000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14905_13-48-52.262000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10513_13-41-33.060000.mat",
+    "text": "a car driving down a highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14207_13-47-42.462000.mat",
+    "text": "a car driving through a tunnel on a road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14434_11-55-00.539000.mat",
+    "text": "a car driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13299_13-46-11.662000.mat",
+    "text": "a car driving down a road with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10722_13-41-53.961000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14193_13-47-41.063000.mat",
+    "text": "a car driving down a highway with a sign above it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15668_11-57-03.940000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11447_13-43-06.461000.mat",
+    "text": "a car driving down the road in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10749_11-48-52.034000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12181_11-51-15.235000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10245_11-48-01.633000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15017_13-49-03.462000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20362_12-04-53.346000.mat",
+    "text": "a street view of a street with cars driving on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19434_12-03-20.545000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15636_13-50-05.364000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10613_11-48-38.434000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20118_12-04-28.945000.mat",
+    "text": "a street view of a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19245_12-03-01.645000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11558_13-43-17.560000.mat",
+    "text": "a motorcycle is driving down the road in front of a bridge"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17331_11-59-50.242000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15544_13-49-56.163000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10708_13-41-52.561000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14391_13-48-00.863000.mat",
+    "text": "a car driving down a highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11123_13-42-34.061000.mat",
+    "text": "a car is driving down the road with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10895_11-49-06.634000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15130_13-49-14.763000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13275_13-46-09.262000.mat",
+    "text": "a car driving down a road next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11167_11-49-33.835000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10461_11-48-23.234000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10064_13-40-48.160000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11543_13-43-16.060000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13332_11-53-10.338000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19451_12-03-22.245000.mat",
+    "text": "a car driving down a street in a small town"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15473_13-49-49.063000.mat",
+    "text": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10179_13-40-59.660000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10014_11-47-38.533000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10724_11-48-49.535000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15791_11-57-16.240000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13904_13-47-12.163000.mat",
+    "text": "a car driving down a highway with a sky background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12945_13-45-36.261000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12323_13-44-34.061000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11710_13-43-32.761000.mat",
+    "text": "a car driving down a desert road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15808_11-57-17.941000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11137_13-42-35.461000.mat",
+    "text": "a car driving down the road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19326_12-03-09.745000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20062_12-04-23.345000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19734_12-03-50.545000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10588_13-41-40.561000.mat",
+    "text": "a truck is driving down the highway"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10932_11-49-10.334000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12548_11-51-51.936000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11217_13-42-43.460000.mat",
+    "text": "a car driving down the highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14016_11-54-18.738000.mat",
+    "text": "a street view of a city with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19545_12-03-31.644000.mat",
+    "text": "a car driving down a street with a tree in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14385_11-54-55.639000.mat",
+    "text": "a street view of cars and a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10010_13-40-42.760000.mat",
+    "text": "a car driving down the road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13630_13-46-44.762000.mat",
+    "text": "a car driving down a desert road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10038_13-40-45.560000.mat",
+    "text": "a car driving down the road with a truck in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14355_11-54-52.639000.mat",
+    "text": "a street view of cars driving down the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14332_13-47-54.963000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12164_11-51-13.536000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19318_12-03-08.944000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11817_11-50-38.836000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10214_11-47-58.534000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12172_13-44-18.962000.mat",
+    "text": "a motorcycle is driving down the road in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17378_11-59-54.942000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12421_11-51-39.236000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19389_12-03-16.045000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14444_11-55-01.539000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12199_13-44-21.661000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20095_12-04-26.645000.mat",
+    "text": "a street view of a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13124_13-45-54.162000.mat",
+    "text": "two cars driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11999_13-44-01.661000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15568_11-56-53.940000.mat",
+    "text": "a car driving down a street with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14114_13-47-33.162000.mat",
+    "text": "a car driving down a highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15278_13-49-29.564000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15110_13-49-12.763000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13277_13-46-09.462000.mat",
+    "text": "a car driving down a road next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11388_11-49-55.935000.mat",
+    "text": "a car driving down a street with buildings in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14939_11-55-51.040000.mat",
+    "text": "a car driving down a street with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13082_11-52-45.337000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10580_13-41-39.761000.mat",
+    "text": "a car driving down the highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13226_11-52-59.737000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10639_13-41-45.661000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19284_12-03-05.545000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11943_11-50-51.436000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10586_13-41-40.360000.mat",
+    "text": "a truck is driving down the highway"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11966_11-50-53.736000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15079_11-56-05.040000.mat",
+    "text": "a car driving down a street with a lot of cars"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19927_12-04-09.845000.mat",
+    "text": "a street view of a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13369_11-53-14.038000.mat",
+    "text": "a car driving down a street next to a house"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17405_11-59-57.643000.mat",
+    "text": "a car driving down a street with a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15486_13-49-50.363000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11795_11-50-36.636000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10031_11-47-40.233000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12382_13-44-39.961000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10647_11-48-41.835000.mat",
+    "text": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12707_11-52-07.837000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14161_13-47-37.862000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20181_12-04-35.245000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12556_13-44-57.361000.mat",
+    "text": "a car driving down a road with an american flag"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10713_13-41-53.060000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12992_13-45-40.963000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14849_11-55-42.039000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10050_11-47-42.133000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10483_11-48-25.433000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13490_13-46-30.763000.mat",
+    "text": "two cars driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13479_11-53-25.037000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12659_11-52-03.037000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11523_11-50-09.435000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12901_11-52-27.237000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14704_13-48-32.162000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14159_13-47-37.663000.mat",
+    "text": "a car driving down a highway with a bull on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11378_13-42-59.560000.mat",
+    "text": "a car driving down a desert road with a truck in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15523_13-49-54.063000.mat",
+    "text": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12501_11-51-47.236000.mat",
+    "text": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13163_11-52-53.437000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15500_11-56-47.140000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13773_13-46-59.062000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10299_11-48-07.034000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11737_13-43-35.461000.mat",
+    "text": "a car driving down the road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12168_13-44-18.561000.mat",
+    "text": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14061_13-47-27.862000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20337_12-04-50.846000.mat",
+    "text": "a street view of a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11993_11-50-56.436000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12124_13-44-14.161000.mat",
+    "text": "a view of a street with a car driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12683_11-52-05.436000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13976_11-54-14.738000.mat",
+    "text": "a car is driving down a street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10744_11-48-51.535000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10484_13-41-30.160000.mat",
+    "text": "a police car driving down the road with a police car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15264_11-56-23.540000.mat",
+    "text": "a street view of a street with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17401_11-59-57.242000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14079_11-54-25.038000.mat",
+    "text": "a street view of cars parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11236_13-42-45.360000.mat",
+    "text": "a car driving down the road with a camera attached to it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14829_11-55-40.039000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13625_11-53-39.637000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15238_11-56-20.940000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12943_13-45-36.062000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13199_13-46-01.661000.mat",
+    "text": "a car driving down a road with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14791_11-55-36.240000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14794_11-55-36.540000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12540_11-51-51.136000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12417_13-44-43.462000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14293_13-47-51.062000.mat",
+    "text": "a car driving down a highway with a traffic light on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12773_13-45-19.061000.mat",
+    "text": "a car is driving down the road with another car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11871_13-43-48.861000.mat",
+    "text": "a truck driving down a highway next to a bridge"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15229_11-56-20.040000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12257_11-51-22.836000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14447_13-48-06.463000.mat",
+    "text": "a car driving down a highway with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13160_11-52-53.138000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17512_12-00-08.342000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19631_12-03-40.245000.mat",
+    "text": "a street view of a residential area with a car parked in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13929_13-47-14.662000.mat",
+    "text": "a car driving down a road with a sign on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19687_12-03-45.845000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13970_11-54-14.138000.mat",
+    "text": "a car is driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12557_11-51-52.837000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11392_13-43-00.961000.mat",
+    "text": "a car driving down a desert road with a sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11351_13-42-56.861000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11276_13-42-49.361000.mat",
+    "text": "a car driving down the road with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12363_13-44-38.061000.mat",
+    "text": "a view of a road with a car driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19930_12-04-10.145000.mat",
+    "text": "a street view of a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11461_11-50-03.235000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20233_12-04-40.445000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12319_11-51-29.036000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15101_11-56-07.240000.mat",
+    "text": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12898_13-45-31.562000.mat",
+    "text": "a car is driving down the road with a police car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19375_12-03-14.646000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15662_11-57-03.341000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20334_12-04-50.545000.mat",
+    "text": "a street view of a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12347_13-44-36.461000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13787_13-47-00.462000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16020_11-57-39.141000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19917_12-04-08.846000.mat",
+    "text": "a street view of a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15354_13-49-37.163000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14705_13-48-32.263000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13533_13-46-35.062000.mat",
+    "text": "a car driving down a highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12759_11-52-13.037000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12470_11-51-44.136000.mat",
+    "text": "a car driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10434_11-48-20.534000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14944_13-48-56.163000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15009_11-55-58.039000.mat",
+    "text": "a street with cars and a sun in the sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11777_13-43-39.461000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10022_13-40-43.960000.mat",
+    "text": "a car driving down the road with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19394_12-03-16.545000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13678_13-46-49.562000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13170_13-45-58.762000.mat",
+    "text": "a car driving down a highway with palm trees in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13407_11-53-17.838000.mat",
+    "text": "a car driving down a street next to a palm tree"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13213_13-46-03.062000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12902_13-45-31.962000.mat",
+    "text": "a car is driving down the road with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12782_11-52-15.337000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14893_11-55-46.439000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19432_12-03-20.345000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15045_11-56-01.640000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15850_11-57-22.140000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11268_11-49-43.935000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14256_13-47-47.363000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11253_11-49-42.435000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12659_13-45-07.662000.mat",
+    "text": "a car driving down a highway with a traffic cone"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10628_13-41-44.560000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14248_13-47-46.563000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13658_11-53-42.937000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20219_12-04-39.045000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11762_11-50-33.335000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19292_12-03-06.345000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11482_11-50-05.335000.mat",
+    "text": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15913_11-57-28.441000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11716_11-50-28.736000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11304_13-42-52.161000.mat",
+    "text": "a car driving down a highway with a wind turbine"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15592_11-56-56.340000.mat",
+    "text": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11514_13-43-13.161000.mat",
+    "text": "a police car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10107_11-47-47.834000.mat",
+    "text": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13435_13-46-25.262000.mat",
+    "text": "a car driving down a highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10602_13-41-41.960000.mat",
+    "text": "a car driving down a highway next to a sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19449_12-03-22.045000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15144_11-56-11.541000.mat",
+    "text": "a car driving down a highway with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14593_13-48-21.063000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15468_13-49-48.564000.mat",
+    "text": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10369_13-41-18.660000.mat",
+    "text": "a car driving down the road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12427_11-51-39.837000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14348_13-47-56.562000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11144_13-42-36.161000.mat",
+    "text": "a car driving down the road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13529_13-46-34.662000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15439_13-49-45.663000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10217_11-47-58.834000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14213_13-47-43.062000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19568_12-03-33.945000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11599_11-50-17.035000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12368_11-51-33.936000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11919_13-43-53.661000.mat",
+    "text": "a car driving down a road next to a truck"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11712_11-50-28.336000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10510_11-48-28.134000.mat",
+    "text": "a car driving down a street next to a tall building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10700_11-48-47.134000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19597_12-03-36.844000.mat",
+    "text": "a car driving down a street in a residential area"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11770_11-50-34.135000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14983_13-49-00.062000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17326_11-59-49.742000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19503_12-03-27.447000.mat",
+    "text": "a car driving down a street in a residential area"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17520_12-00-09.142000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10573_11-48-34.434000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11642_13-43-25.961000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10039_11-47-41.033000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11408_11-49-57.935000.mat",
+    "text": "a view of a street with buildings and cars"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12329_13-44-34.661000.mat",
+    "text": "a car driving down a street with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11802_11-50-37.336000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14864_11-55-43.540000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15476_11-56-44.740000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10737_13-41-55.461000.mat",
+    "text": "a car driving down a desert road with a view of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14398_13-48-01.563000.mat",
+    "text": "a car driving down the highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13867_13-47-08.462000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12914_13-45-33.162000.mat",
+    "text": "a car driving down the highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12682_13-45-09.962000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20294_12-04-46.545000.mat",
+    "text": "a street view of a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20252_12-04-42.345000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15173_11-56-14.440000.mat",
+    "text": "a car driving down a highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13029_13-45-44.663000.mat",
+    "text": "a car driving through a tunnel on a highway"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10346_11-48-11.734000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13135_13-45-55.262000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11920_11-50-49.136000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14972_13-48-58.962000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14368_13-47-58.563000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10156_13-40-57.360000.mat",
+    "text": "a car driving down the road with a camera on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13211_13-46-02.862000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13611_11-53-38.238000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19592_12-03-36.345000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14542_11-55-11.339000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13561_13-46-37.862000.mat",
+    "text": "a car driving down a desert road with a truck"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12357_11-51-32.836000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15239_11-56-21.040000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13282_11-53-05.337000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14105_11-54-27.638000.mat",
+    "text": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15201_11-56-17.240000.mat",
+    "text": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13522_13-46-33.962000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11293_13-42-51.061000.mat",
+    "text": "a car driving down the highway with a camera"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10539_13-41-35.660000.mat",
+    "text": "a car driving down the road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11897_11-50-46.835000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14381_11-54-55.239000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13723_11-53-49.438000.mat",
+    "text": "a car driving down a street in the middle of town"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11939_11-50-51.036000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11755_13-43-37.262000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13544_11-53-31.538000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10811_11-48-58.235000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13423_13-46-24.062000.mat",
+    "text": "a car is driving down the road with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15955_11-57-32.640000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19998_12-04-16.945000.mat",
+    "text": "a street with houses and cars on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11255_13-42-47.261000.mat",
+    "text": "a car driving down the highway with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11904_13-43-52.161000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11850_11-50-42.136000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14069_11-54-24.039000.mat",
+    "text": "a street view of cars and a street light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14775_13-48-39.263000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10812_11-48-58.334000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12589_11-51-56.036000.mat",
+    "text": "a street with cars and a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10177_11-47-54.833000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19585_12-03-35.645000.mat",
+    "text": "a car driving down a street in a residential area"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12025_11-50-59.636000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11911_13-43-52.861000.mat",
+    "text": "a car driving down the road next to a semi"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15865_11-57-23.640000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10937_11-49-10.834000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13759_13-46-57.662000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12212_11-51-18.336000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11551_11-50-12.235000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11612_13-43-22.961000.mat",
+    "text": "a car driving down a highway under a bridge"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14549_13-48-16.663000.mat",
+    "text": "a car driving down the highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10052_13-40-46.960000.mat",
+    "text": "a car driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14437_13-48-05.463000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10457_11-48-22.834000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20105_12-04-27.646000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16021_11-57-39.241000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19993_12-04-16.446000.mat",
+    "text": "a street with houses and cars on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11779_11-50-35.036000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15352_13-49-36.963000.mat",
+    "text": "a street with cars parked on it and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10758_13-41-57.560000.mat",
+    "text": "a car driving down a highway with a sign on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10614_13-41-43.161000.mat",
+    "text": "a view of a highway with a car driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11580_13-43-19.761000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20172_12-04-34.346000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13606_13-46-42.363000.mat",
+    "text": "a car driving through a tunnel on a highway"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14881_11-55-45.239000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12039_11-51-01.036000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17391_11-59-56.242000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13612_11-53-38.338000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13142_13-45-55.962000.mat",
+    "text": "a car driving down a road with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14127_13-47-34.462000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11856_13-43-47.362000.mat",
+    "text": "a car driving down a highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14015_11-54-18.638000.mat",
+    "text": "a street view of a city with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13339_11-53-11.037000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14948_11-55-51.940000.mat",
+    "text": "a car driving down a street with cars parked on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14189_13-47-40.662000.mat",
+    "text": "a car driving down a highway next to a bridge"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14156_13-47-37.362000.mat",
+    "text": "a car driving down a highway with a bull bull"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14475_13-48-09.262000.mat",
+    "text": "a car driving down a highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14039_13-47-25.662000.mat",
+    "text": "a car driving down a highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11853_13-43-47.061000.mat",
+    "text": "a car driving down the highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12344_11-51-31.536000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11572_13-43-18.961000.mat",
+    "text": "a motorcycle is driving down the road in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12108_13-44-12.561000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14980_13-48-59.763000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13703_13-46-52.062000.mat",
+    "text": "a car driving down a road next to a red car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14047_11-54-21.838000.mat",
+    "text": "a car is driving down a street with a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10333_11-48-10.434000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19941_12-04-11.246000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15337_13-49-35.463000.mat",
+    "text": "a car driving down a street with a wall behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12544_11-51-51.536000.mat",
+    "text": "a street with cars and a street light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11634_11-50-20.536000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10303_11-48-07.434000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13552_11-53-32.338000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12803_13-45-22.061000.mat",
+    "text": "a car driving down a road with a sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12401_11-51-37.237000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20240_12-04-41.146000.mat",
+    "text": "a street with palm trees and houses in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19712_12-03-48.346000.mat",
+    "text": "a car driving down a street in the sun"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10210_11-47-58.133000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12139_13-44-15.661000.mat",
+    "text": "a motorcycle is driving down the highway"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19771_12-03-54.245000.mat",
+    "text": "a person riding a motorcycle down a street"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10651_11-48-42.233000.mat",
+    "text": "a car is driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14635_13-48-25.263000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11264_13-42-48.161000.mat",
+    "text": "a car driving down the highway with a view of the mountains"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13781_13-46-59.862000.mat",
+    "text": "a car driving down a highway with a sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_16071_11-57-44.240000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12490_11-51-46.137000.mat",
+    "text": "a car driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11957_13-43-57.462000.mat",
+    "text": "a white truck driving down a road next to a white car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12717_11-52-08.837000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13394_11-53-16.537000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14238_13-47-45.563000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15016_13-49-03.363000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11101_13-42-31.860000.mat",
+    "text": "a car driving down the road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13244_13-46-06.161000.mat",
+    "text": "a car driving down a road with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14900_11-55-47.139000.mat",
+    "text": "a car driving down a street with a street sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11524_13-43-14.160000.mat",
+    "text": "a car driving down a highway with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14820_13-48-43.763000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11549_13-43-16.661000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11621_11-50-19.235000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14799_13-48-41.663000.mat",
+    "text": "a car driving down a road in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13687_11-53-45.838000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12888_11-52-25.937000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12796_13-45-21.361000.mat",
+    "text": "a car driving down a highway with a police car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11590_13-43-20.761000.mat",
+    "text": "a car driving down a highway with a bridge in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11375_11-49-54.635000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12349_13-44-36.661000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12671_11-52-04.236000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14380_13-47-59.763000.mat",
+    "text": "a car driving down a highway with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13156_13-45-57.362000.mat",
+    "text": "a car driving down a road with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20400_12-04-57.146000.mat",
+    "text": "a street view of a street with a car driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19831_12-04-00.245000.mat",
+    "text": "a street view of a street with houses and palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13708_11-53-47.937000.mat",
+    "text": "a car driving down a street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15827_11-57-19.841000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10398_11-48-16.934000.mat",
+    "text": "a street view of a city with cars and buildings"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12885_11-52-25.637000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12808_13-45-22.561000.mat",
+    "text": "a car driving down a road with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10908_11-49-07.934000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10321_11-48-09.234000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13020_11-52-39.137000.mat",
+    "text": "a car driving down a street with houses in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13307_11-53-07.837000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12416_11-51-38.737000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10592_11-48-36.334000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11212_13-42-42.961000.mat",
+    "text": "a car driving down the highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12531_13-44-54.861000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13970_13-47-18.762000.mat",
+    "text": "a car driving down a highway with a flag on the side"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13234_11-53-00.537000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11632_11-50-20.335000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13871_13-47-08.862000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13900_13-47-11.762000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13098_13-45-51.561000.mat",
+    "text": "a car driving down a highway with a blue car in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11613_11-50-18.435000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15526_13-49-54.363000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12337_13-44-35.461000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15895_11-57-26.642000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13280_13-46-09.763000.mat",
+    "text": "a car driving down a street with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10764_11-48-53.534000.mat",
+    "text": "a car is parked on the side of the road"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12209_11-51-18.036000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12952_13-45-36.962000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14784_13-48-40.163000.mat",
+    "text": "a car driving down a road next to a sign"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15498_11-56-46.940000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13265_11-53-03.638000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14932_13-48-54.963000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13821_13-47-03.863000.mat",
+    "text": "a car driving down a road with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20179_12-04-35.046000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10843_13-42-06.060000.mat",
+    "text": "a car driving down a road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19348_12-03-11.945000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15056_11-56-02.740000.mat",
+    "text": "a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14754_11-55-32.539000.mat",
+    "text": "a car driving down a street next to a wall"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11627_11-50-19.836000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13515_11-53-28.638000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17499_12-00-07.042000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10473_11-48-24.434000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11633_11-50-20.435000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11936_13-43-55.361000.mat",
+    "text": "a truck driving down the road with a truck behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14361_13-47-57.863000.mat",
+    "text": "a car driving down a road with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15301_13-49-31.862000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15342_13-49-35.963000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20277_12-04-44.846000.mat",
+    "text": "a street view of a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15583_11-56-55.441000.mat",
+    "text": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19454_12-03-22.545000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15524_11-56-49.541000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_20153_12-04-32.446000.mat",
+    "text": "a car driving down a street in a residential neighborhood"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15674_11-57-04.540000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12010_13-44-02.761000.mat",
+    "text": "a view of a street with cars driving down it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12251_13-44-26.861000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14865_13-48-48.262000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15667_11-57-03.840000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12655_11-52-02.637000.mat",
+    "text": "a car driving down a street next to a traffic light"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14997_13-49-01.463000.mat",
+    "text": "a car driving down a street next to a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19521_12-03-29.245000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_15607_11-56-57.840000.mat",
+    "text": "a car driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13378_13-46-19.562000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12140_13-44-15.762000.mat",
+    "text": "a motorcycle is driving down the highway"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10251_11-48-02.233000.mat",
+    "text": "a car is parked in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11294_13-42-51.161000.mat",
+    "text": "a car driving down a highway with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19829_12-04-00.045000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11925_13-43-54.261000.mat",
+    "text": "a car driving down the road with a trailer behind it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10524_13-41-34.161000.mat",
+    "text": "a car driving down the highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19272_12-03-04.344000.mat",
+    "text": "a street view of a street with cars parked on it"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11095_13-42-31.261000.mat",
+    "text": "a car driving down the highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_17438_12-00-00.942000.mat",
+    "text": "a car driving down a street with palm trees"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12178_13-44-19.561000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11243_13-42-46.060000.mat",
+    "text": "a car driving down the highway with a car in the middle"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10033_11-47-40.434000.mat",
+    "text": "a street with cars parked on it and a building in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13761_13-46-57.862000.mat",
+    "text": "a car driving down a road with a blue sky"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10182_13-40-59.960000.mat",
+    "text": "a car driving down a road next to a car"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_12450_11-51-42.136000.mat",
+    "text": "a car driving down the street in front of a building"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11757_13-43-37.461000.mat",
+    "text": "a car driving down the road with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14089_11-54-26.038000.mat",
+    "text": "a car is driving down the street in a city"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10142_13-40-55.960000.mat",
+    "text": "a car driving down a road with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_14491_13-48-10.862000.mat",
+    "text": "a car driving down the highway with a sign in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_10120_13-40-53.760000.mat",
+    "text": "a car driving down the road with a view of the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19607_12-03-37.845000.mat",
+    "text": "a car driving down a street next to a house"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_13682_13-46-49.962000.mat",
+    "text": "a car driving down a highway with a blue sky in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11993_13-44-01.061000.mat",
+    "text": "a car driving down a street next to a truck"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_11691_11-50-26.236000.mat",
+    "text": "a car driving down a street with a sun in the background"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19593_12-03-36.445000.mat",
+    "text": "a car driving down a street in the desert"
+  },
+  {
+    "image": "/work/pi_mshao_umassd_edu/Iqbal/RadarCLIP/scenario36/unit1/radar1/data_19740_12-03-51.145000.mat",
+    "text": "a street with cars parked on it and a sun shining"
+  }
+]
